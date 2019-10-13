@@ -1,4 +1,4 @@
 ExcelGenie:
-Date support
-write to db mode
-snapshot
+1. Date support
+2. write to db mode
+3. snapshot
