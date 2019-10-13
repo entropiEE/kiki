@@ -1,0 +1,324 @@
+2019-10-12 18:35:37.160  INFO 4167 --- [main] c.f.k.excelgenie.ExcelGenieApplication   : Starting ExcelGenieApplication on RobindeMacBook-Pro.local with PID 4167 (/Users/robinwu/IdeaProjects/kiki/target/classes started by robinwu in /Users/robinwu/IdeaProjects/kiki)
+2019-10-12 18:35:37.162  INFO 4167 --- [main] c.f.k.excelgenie.ExcelGenieApplication   : No active profile set, falling back to default profiles: default
+2019-10-12 18:35:37.909  INFO 4167 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-10-12 18:35:37.930  INFO 4167 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-10-12 18:35:37.931  INFO 4167 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.26]
+2019-10-12 18:35:38.003  INFO 4167 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-10-12 18:35:38.003  INFO 4167 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 785 ms
+2019-10-12 18:35:38.168  INFO 4167 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-12 18:35:38.251  WARN 4167 --- [main] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2019-10-12 18:35:38.340  INFO 4167 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-10-12 18:35:38.343  INFO 4167 --- [main] c.f.k.excelgenie.ExcelGenieApplication   : Started ExcelGenieApplication in 1.69 seconds (JVM running for 1.966)
+2019-10-12 18:35:38.344  INFO 4167 --- [main] c.f.k.excelgenie.ExcelGenieApplication   : ExcelGenieApplication started
+2019-10-12 18:35:43.982  INFO 4167 --- [Thread-3] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-10-12 18:45:21.383  INFO 4190 --- [main] c.f.k.excelgenie.ExcelGenieApplication   : Starting ExcelGenieApplication on RobindeMacBook-Pro.local with PID 4190 (/Users/robinwu/IdeaProjects/kiki/target/classes started by robinwu in /Users/robinwu/IdeaProjects/kiki)
+2019-10-12 18:45:21.386  INFO 4190 --- [main] c.f.k.excelgenie.ExcelGenieApplication   : No active profile set, falling back to default profiles: default
+2019-10-12 18:45:22.235  INFO 4190 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-10-12 18:45:22.265  INFO 4190 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-10-12 18:45:22.265  INFO 4190 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.26]
+2019-10-12 18:45:22.353  INFO 4190 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-10-12 18:45:22.354  INFO 4190 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 915 ms
+2019-10-12 18:45:22.552  INFO 4190 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-12 18:45:22.640  WARN 4190 --- [main] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2019-10-12 18:45:22.738  INFO 4190 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-10-12 18:45:22.741  INFO 4190 --- [main] c.f.k.excelgenie.ExcelGenieApplication   : Started ExcelGenieApplication in 1.831 seconds (JVM running for 2.126)
+2019-10-12 18:45:22.742  INFO 4190 --- [main] c.f.k.excelgenie.ExcelGenieApplication   : ExcelGenieApplication started
+2019-10-12 18:45:28.809  INFO 4190 --- [Thread-3] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-10-12 18:45:39.298  INFO 4193 --- [main] c.f.k.excelgenie.ExcelGenieApplication   : Starting ExcelGenieApplication on RobindeMacBook-Pro.local with PID 4193 (/Users/robinwu/IdeaProjects/kiki/target/classes started by robinwu in /Users/robinwu/IdeaProjects/kiki)
+2019-10-12 18:45:39.301  INFO 4193 --- [main] c.f.k.excelgenie.ExcelGenieApplication   : No active profile set, falling back to default profiles: default
+2019-10-12 18:45:40.086  INFO 4193 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-10-12 18:45:40.108  INFO 4193 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-10-12 18:45:40.108  INFO 4193 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.26]
+2019-10-12 18:45:40.181  INFO 4193 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-10-12 18:45:40.181  INFO 4193 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 840 ms
+2019-10-12 18:45:40.340  INFO 4193 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-12 18:45:40.417  WARN 4193 --- [main] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2019-10-12 18:45:40.505  INFO 4193 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-10-12 18:45:40.508  INFO 4193 --- [main] c.f.k.excelgenie.ExcelGenieApplication   : Started ExcelGenieApplication in 1.472 seconds (JVM running for 1.753)
+2019-10-12 18:45:40.509  INFO 4193 --- [main] c.f.k.excelgenie.ExcelGenieApplication   : ExcelGenieApplication started
+2019-10-12 18:45:59.737  INFO 4193 --- [Thread-3] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-10-12 18:50:45.358  INFO 4209 --- [main] c.f.k.excelgenie.ExcelGenieApplication   : Starting ExcelGenieApplication on RobindeMacBook-Pro.local with PID 4209 (/Users/robinwu/IdeaProjects/kiki/target/classes started by robinwu in /Users/robinwu/IdeaProjects/kiki)
+2019-10-12 18:50:45.360  INFO 4209 --- [main] c.f.k.excelgenie.ExcelGenieApplication   : No active profile set, falling back to default profiles: default
+2019-10-12 18:50:46.063  INFO 4209 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-10-12 18:50:46.084  INFO 4209 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-10-12 18:50:46.084  INFO 4209 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.26]
+2019-10-12 18:50:46.153  INFO 4209 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-10-12 18:50:46.153  INFO 4209 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 750 ms
+2019-10-12 18:50:46.316  INFO 4209 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-12 18:50:46.395  WARN 4209 --- [main] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2019-10-12 18:50:46.484  INFO 4209 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-10-12 18:50:46.486  INFO 4209 --- [main] c.f.k.excelgenie.ExcelGenieApplication   : Started ExcelGenieApplication in 1.568 seconds (JVM running for 1.842)
+2019-10-12 18:50:46.487  INFO 4209 --- [main] c.f.k.excelgenie.ExcelGenieApplication   : ExcelGenieApplication started
+2019-10-12 18:50:46.904  INFO 4209 --- [Thread-3] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-10-12 18:51:35.619  INFO 4211 --- [main] c.f.k.excelgenie.ExcelGenieApplication   : Starting ExcelGenieApplication on RobindeMacBook-Pro.local with PID 4211 (/Users/robinwu/IdeaProjects/kiki/target/classes started by robinwu in /Users/robinwu/IdeaProjects/kiki)
+2019-10-12 18:51:35.622  INFO 4211 --- [main] c.f.k.excelgenie.ExcelGenieApplication   : No active profile set, falling back to default profiles: default
+2019-10-12 18:51:36.429  INFO 4211 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-10-12 18:51:36.452  INFO 4211 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-10-12 18:51:36.453  INFO 4211 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.26]
+2019-10-12 18:51:36.531  INFO 4211 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-10-12 18:51:36.531  INFO 4211 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 867 ms
+2019-10-12 18:51:36.710  INFO 4211 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-12 18:51:36.787  WARN 4211 --- [main] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2019-10-12 18:51:36.875  INFO 4211 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-10-12 18:51:36.878  INFO 4211 --- [main] c.f.k.excelgenie.ExcelGenieApplication   : Started ExcelGenieApplication in 1.521 seconds (JVM running for 1.798)
+2019-10-12 18:51:36.879  INFO 4211 --- [main] c.f.k.excelgenie.ExcelGenieApplication   : ExcelGenieApplication started
+2019-10-12 18:51:37.290  INFO 4211 --- [main] c.f.k.excelgenie.ExcelGenieApplication   : ExcelGenieApplication ended
+2019-10-12 18:51:37.292  INFO 4211 --- [Thread-3] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-10-12 19:48:34.758  INFO 4256 --- [main] c.f.k.excelgenie.ExcelgenieApplication   : Starting ExcelgenieApplication on RobindeMacBook-Pro.local with PID 4256 (/Users/robinwu/IdeaProjects/kiki/kiki-excelgenie/target/classes started by robinwu in /Users/robinwu/IdeaProjects/kiki)
+2019-10-12 19:48:34.760  INFO 4256 --- [main] c.f.k.excelgenie.ExcelgenieApplication   : No active profile set, falling back to default profiles: default
+2019-10-12 19:48:35.239  WARN 4256 --- [main] s.c.a.AnnotationConfigApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception; nested exception is org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$DataSourceBeanCreationException: Failed to determine a suitable driver class
+2019-10-12 19:48:35.245  INFO 4256 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-10-12 19:48:35.247 ERROR 4256 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured.
+
+Reason: Failed to determine a suitable driver class
+
+
+Action:
+
+Consider the following:
+	If you want an embedded database (H2, HSQL or Derby), please put it on the classpath.
+	If you have database settings to be loaded from a particular profile you may need to activate it (no profiles are currently active).
+
+2019-10-12 20:11:50.871  INFO 4296 --- [main] c.f.k.excelgenie.ExcelgenieApplication   : Starting ExcelgenieApplication on RobindeMacBook-Pro.local with PID 4296 (/Users/robinwu/IdeaProjects/kiki/kiki-excelgenie/target/classes started by robinwu in /Users/robinwu/IdeaProjects/kiki)
+2019-10-12 20:11:50.873  INFO 4296 --- [main] c.f.k.excelgenie.ExcelgenieApplication   : No active profile set, falling back to default profiles: default
+2019-10-12 20:11:51.384  WARN 4296 --- [main] s.c.a.AnnotationConfigApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception; nested exception is org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$DataSourceBeanCreationException: Failed to determine a suitable driver class
+2019-10-12 20:11:51.391  INFO 4296 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-10-12 20:11:51.393 ERROR 4296 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured.
+
+Reason: Failed to determine a suitable driver class
+
+
+Action:
+
+Consider the following:
+	If you want an embedded database (H2, HSQL or Derby), please put it on the classpath.
+	If you have database settings to be loaded from a particular profile you may need to activate it (no profiles are currently active).
+
+2019-10-12 20:18:37.438  INFO 4366 --- [main] c.f.k.excelgenie.ExcelgenieApplication   : Starting ExcelgenieApplication on RobindeMacBook-Pro.local with PID 4366 (/Users/robinwu/IdeaProjects/kiki/kiki-excelgenie/target/classes started by robinwu in /Users/robinwu/IdeaProjects/kiki)
+2019-10-12 20:18:37.440  INFO 4366 --- [main] c.f.k.excelgenie.ExcelgenieApplication   : No active profile set, falling back to default profiles: default
+2019-10-12 20:18:38.067  INFO 4366 --- [main] c.f.k.excelgenie.ExcelgenieApplication   : Started ExcelgenieApplication in 1.008 seconds (JVM running for 1.274)
+2019-10-12 20:18:38.068  INFO 4366 --- [main] c.f.k.excelgenie.ExcelgenieApplication   : ExcelgenieApplication started
+2019-10-12 20:18:38.076  INFO 4366 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-10-12 20:18:38.078 ERROR 4366 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The Bean Validation API is on the classpath but no implementation could be found
+
+Action:
+
+Add an implementation, such as Hibernate Validator, to the classpath
+
+2019-10-12 20:19:19.848  INFO 4372 --- [main] c.f.k.excelgenie.ExcelgenieApplication   : Starting ExcelgenieApplication on RobindeMacBook-Pro.local with PID 4372 (/Users/robinwu/IdeaProjects/kiki/kiki-excelgenie/target/classes started by robinwu in /Users/robinwu/IdeaProjects/kiki)
+2019-10-12 20:19:19.850  INFO 4372 --- [main] c.f.k.excelgenie.ExcelgenieApplication   : No active profile set, falling back to default profiles: default
+2019-10-12 20:19:20.498  INFO 4372 --- [main] c.f.k.excelgenie.ExcelgenieApplication   : Started ExcelgenieApplication in 0.9 seconds (JVM running for 1.217)
+2019-10-12 20:19:20.499  INFO 4372 --- [main] c.f.k.excelgenie.ExcelgenieApplication   : ExcelgenieApplication started
+2019-10-12 20:19:20.507  INFO 4372 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-10-12 20:19:20.509 ERROR 4372 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The Bean Validation API is on the classpath but no implementation could be found
+
+Action:
+
+Add an implementation, such as Hibernate Validator, to the classpath
+
+2019-10-12 20:39:23.535  INFO 4405 --- [main] c.f.k.excelgenie.ExcelgenieApplication   : Starting ExcelgenieApplication on RobindeMacBook-Pro.local with PID 4405 (/Users/robinwu/IdeaProjects/kiki/kiki-excelgenie/target/classes started by robinwu in /Users/robinwu/IdeaProjects/kiki)
+2019-10-12 20:39:23.537  INFO 4405 --- [main] c.f.k.excelgenie.ExcelgenieApplication   : No active profile set, falling back to default profiles: default
+2019-10-12 20:39:24.171  INFO 4405 --- [main] c.f.k.excelgenie.ExcelgenieApplication   : Started ExcelgenieApplication in 1.08 seconds (JVM running for 1.346)
+2019-10-12 20:39:24.172  INFO 4405 --- [main] c.f.k.excelgenie.ExcelgenieApplication   : ExcelgenieApplication started
+2019-10-12 20:39:24.182  INFO 4405 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-10-12 20:39:24.187 ERROR 4405 --- [main] o.s.boot.SpringApplication               : Application run failed
+
+java.lang.IllegalStateException: Failed to execute CommandLineRunner
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:784) [spring-boot-2.1.9.RELEASE.jar:2.1.9.RELEASE]
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:765) [spring-boot-2.1.9.RELEASE.jar:2.1.9.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:319) [spring-boot-2.1.9.RELEASE.jar:2.1.9.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1215) [spring-boot-2.1.9.RELEASE.jar:2.1.9.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1204) [spring-boot-2.1.9.RELEASE.jar:2.1.9.RELEASE]
+	at com.finalhome.kiki.excelgenie.ExcelGenieApplication.main(ExcelgenieApplication.java:20) [classes/:na]
+Caused by: javax.validation.ValidationException: HV000183: Unable to initialize 'javax.el.ExpressionFactory'. Check that you have the EL dependencies on the classpath, or use ParameterMessageInterpolator instead
+	at org.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpolator.buildExpressionFactory(ResourceBundleMessageInterpolator.java:116) ~[hibernate-validator-6.0.17.Final.jar:6.0.17.Final]
+	at org.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpolator.<init>(ResourceBundleMessageInterpolator.java:47) ~[hibernate-validator-6.0.17.Final.jar:6.0.17.Final]
+	at org.hibernate.validator.internal.engine.ConfigurationImpl.getDefaultMessageInterpolator(ConfigurationImpl.java:474) ~[hibernate-validator-6.0.17.Final.jar:6.0.17.Final]
+	at org.hibernate.validator.internal.engine.ConfigurationImpl.getDefaultMessageInterpolatorConfiguredWithClassLoader(ConfigurationImpl.java:650) ~[hibernate-validator-6.0.17.Final.jar:6.0.17.Final]
+	at org.hibernate.validator.internal.engine.ConfigurationImpl.getMessageInterpolator(ConfigurationImpl.java:397) ~[hibernate-validator-6.0.17.Final.jar:6.0.17.Final]
+	at org.hibernate.validator.internal.engine.ValidatorFactoryImpl.<init>(ValidatorFactoryImpl.java:183) ~[hibernate-validator-6.0.17.Final.jar:6.0.17.Final]
+	at org.hibernate.validator.HibernateValidator.buildValidatorFactory(HibernateValidator.java:38) ~[hibernate-validator-6.0.17.Final.jar:6.0.17.Final]
+	at org.hibernate.validator.internal.engine.ConfigurationImpl.buildValidatorFactory(ConfigurationImpl.java:346) ~[hibernate-validator-6.0.17.Final.jar:6.0.17.Final]
+	at com.finalhome.kiki.excelgenie.util.ValidationUtil.validate(ValidationUtil.java:17) ~[classes/:na]
+	at com.finalhome.kiki.excelgenie.io.ExcelReader.read(ExcelReader.java:30) ~[classes/:na]
+	at com.finalhome.kiki.excelgenie.ExcelGenieApplication.run(ExcelgenieApplication.java:28) [classes/:na]
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:781) [spring-boot-2.1.9.RELEASE.jar:2.1.9.RELEASE]
+	... 5 common frames omitted
+Caused by: java.lang.NoClassDefFoundError: javax/el/ELManager
+	at org.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpolator.buildExpressionFactory(ResourceBundleMessageInterpolator.java:108) ~[hibernate-validator-6.0.17.Final.jar:6.0.17.Final]
+	... 16 common frames omitted
+
+2019-10-12 20:45:00.277  INFO 4420 --- [main] c.f.k.excelgenie.ExcelgenieApplication   : Starting ExcelgenieApplication on RobindeMacBook-Pro.local with PID 4420 (/Users/robinwu/IdeaProjects/kiki/kiki-excelgenie/target/classes started by robinwu in /Users/robinwu/IdeaProjects/kiki)
+2019-10-12 20:45:00.279  INFO 4420 --- [main] c.f.k.excelgenie.ExcelgenieApplication   : No active profile set, falling back to default profiles: default
+2019-10-12 20:45:00.943  INFO 4420 --- [main] c.f.k.excelgenie.ExcelgenieApplication   : Started ExcelgenieApplication in 1.071 seconds (JVM running for 1.431)
+2019-10-12 20:45:00.943  INFO 4420 --- [main] c.f.k.excelgenie.ExcelgenieApplication   : ExcelgenieApplication started
+2019-10-12 20:45:00.955  INFO 4420 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-10-12 20:45:00.959 ERROR 4420 --- [main] o.s.boot.SpringApplication               : Application run failed
+
+java.lang.IllegalStateException: Failed to execute CommandLineRunner
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:784) [spring-boot-2.1.9.RELEASE.jar:2.1.9.RELEASE]
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:765) [spring-boot-2.1.9.RELEASE.jar:2.1.9.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:319) [spring-boot-2.1.9.RELEASE.jar:2.1.9.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1215) [spring-boot-2.1.9.RELEASE.jar:2.1.9.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1204) [spring-boot-2.1.9.RELEASE.jar:2.1.9.RELEASE]
+	at com.finalhome.kiki.excelgenie.ExcelGenieApplication.main(ExcelgenieApplication.java:20) [classes/:na]
+Caused by: javax.validation.ValidationException: HV000183: Unable to initialize 'javax.el.ExpressionFactory'. Check that you have the EL dependencies on the classpath, or use ParameterMessageInterpolator instead
+	at org.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpolator.buildExpressionFactory(ResourceBundleMessageInterpolator.java:116) ~[hibernate-validator-6.0.17.Final.jar:6.0.17.Final]
+	at org.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpolator.<init>(ResourceBundleMessageInterpolator.java:47) ~[hibernate-validator-6.0.17.Final.jar:6.0.17.Final]
+	at org.hibernate.validator.internal.engine.ConfigurationImpl.getDefaultMessageInterpolator(ConfigurationImpl.java:474) ~[hibernate-validator-6.0.17.Final.jar:6.0.17.Final]
+	at org.hibernate.validator.internal.engine.ConfigurationImpl.getDefaultMessageInterpolatorConfiguredWithClassLoader(ConfigurationImpl.java:650) ~[hibernate-validator-6.0.17.Final.jar:6.0.17.Final]
+	at org.hibernate.validator.internal.engine.ConfigurationImpl.getMessageInterpolator(ConfigurationImpl.java:397) ~[hibernate-validator-6.0.17.Final.jar:6.0.17.Final]
+	at org.hibernate.validator.internal.engine.ValidatorFactoryImpl.<init>(ValidatorFactoryImpl.java:183) ~[hibernate-validator-6.0.17.Final.jar:6.0.17.Final]
+	at org.hibernate.validator.HibernateValidator.buildValidatorFactory(HibernateValidator.java:38) ~[hibernate-validator-6.0.17.Final.jar:6.0.17.Final]
+	at org.hibernate.validator.internal.engine.ConfigurationImpl.buildValidatorFactory(ConfigurationImpl.java:346) ~[hibernate-validator-6.0.17.Final.jar:6.0.17.Final]
+	at com.finalhome.kiki.excelgenie.util.ValidationUtil.validate(ValidationUtil.java:17) ~[classes/:na]
+	at com.finalhome.kiki.excelgenie.io.ExcelReader.read(ExcelReader.java:30) ~[classes/:na]
+	at com.finalhome.kiki.excelgenie.ExcelGenieApplication.run(ExcelgenieApplication.java:28) [classes/:na]
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:781) [spring-boot-2.1.9.RELEASE.jar:2.1.9.RELEASE]
+	... 5 common frames omitted
+Caused by: java.lang.NoClassDefFoundError: javax/el/ELManager
+	at org.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpolator.buildExpressionFactory(ResourceBundleMessageInterpolator.java:108) ~[hibernate-validator-6.0.17.Final.jar:6.0.17.Final]
+	... 16 common frames omitted
+
+2019-10-12 20:52:45.958  INFO 4442 --- [main] c.f.k.excelgenie.ExcelgenieApplication   : Starting ExcelgenieApplication on RobindeMacBook-Pro.local with PID 4442 (/Users/robinwu/IdeaProjects/kiki/kiki-excelgenie/target/classes started by robinwu in /Users/robinwu/IdeaProjects/kiki)
+2019-10-12 20:52:45.960  INFO 4442 --- [main] c.f.k.excelgenie.ExcelgenieApplication   : No active profile set, falling back to default profiles: default
+2019-10-12 20:52:46.625  INFO 4442 --- [main] c.f.k.excelgenie.ExcelgenieApplication   : Started ExcelgenieApplication in 1.113 seconds (JVM running for 1.382)
+2019-10-12 20:52:46.626  INFO 4442 --- [main] c.f.k.excelgenie.ExcelgenieApplication   : ExcelgenieApplication started
+2019-10-12 20:52:46.638  INFO 4442 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-10-12 20:52:46.642 ERROR 4442 --- [main] o.s.boot.SpringApplication               : Application run failed
+
+java.lang.IllegalStateException: Failed to execute CommandLineRunner
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:784) [spring-boot-2.1.9.RELEASE.jar:2.1.9.RELEASE]
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:765) [spring-boot-2.1.9.RELEASE.jar:2.1.9.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:319) [spring-boot-2.1.9.RELEASE.jar:2.1.9.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1215) [spring-boot-2.1.9.RELEASE.jar:2.1.9.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1204) [spring-boot-2.1.9.RELEASE.jar:2.1.9.RELEASE]
+	at com.finalhome.kiki.excelgenie.ExcelGenieApplication.main(ExcelgenieApplication.java:20) [classes/:na]
+Caused by: javax.validation.ValidationException: HV000183: Unable to initialize 'javax.el.ExpressionFactory'. Check that you have the EL dependencies on the classpath, or use ParameterMessageInterpolator instead
+	at org.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpolator.buildExpressionFactory(ResourceBundleMessageInterpolator.java:116) ~[hibernate-validator-6.0.17.Final.jar:6.0.17.Final]
+	at org.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpolator.<init>(ResourceBundleMessageInterpolator.java:47) ~[hibernate-validator-6.0.17.Final.jar:6.0.17.Final]
+	at org.hibernate.validator.internal.engine.ConfigurationImpl.getDefaultMessageInterpolator(ConfigurationImpl.java:474) ~[hibernate-validator-6.0.17.Final.jar:6.0.17.Final]
+	at org.hibernate.validator.internal.engine.ConfigurationImpl.getDefaultMessageInterpolatorConfiguredWithClassLoader(ConfigurationImpl.java:650) ~[hibernate-validator-6.0.17.Final.jar:6.0.17.Final]
+	at org.hibernate.validator.internal.engine.ConfigurationImpl.getMessageInterpolator(ConfigurationImpl.java:397) ~[hibernate-validator-6.0.17.Final.jar:6.0.17.Final]
+	at org.hibernate.validator.internal.engine.ValidatorFactoryImpl.<init>(ValidatorFactoryImpl.java:183) ~[hibernate-validator-6.0.17.Final.jar:6.0.17.Final]
+	at org.hibernate.validator.HibernateValidator.buildValidatorFactory(HibernateValidator.java:38) ~[hibernate-validator-6.0.17.Final.jar:6.0.17.Final]
+	at org.hibernate.validator.internal.engine.ConfigurationImpl.buildValidatorFactory(ConfigurationImpl.java:346) ~[hibernate-validator-6.0.17.Final.jar:6.0.17.Final]
+	at com.finalhome.kiki.excelgenie.util.ValidationUtil.validate(ValidationUtil.java:17) ~[classes/:na]
+	at com.finalhome.kiki.excelgenie.io.ExcelReader.read(ExcelReader.java:30) ~[classes/:na]
+	at com.finalhome.kiki.excelgenie.ExcelGenieApplication.run(ExcelgenieApplication.java:28) [classes/:na]
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:781) [spring-boot-2.1.9.RELEASE.jar:2.1.9.RELEASE]
+	... 5 common frames omitted
+Caused by: java.lang.NoClassDefFoundError: javax/el/ELManager
+	at org.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpolator.buildExpressionFactory(ResourceBundleMessageInterpolator.java:108) ~[hibernate-validator-6.0.17.Final.jar:6.0.17.Final]
+	... 16 common frames omitted
+
+2019-10-12 20:53:22.027  INFO 4445 --- [main] c.f.k.excelgenie.ExcelgenieApplication   : Starting ExcelgenieApplication on RobindeMacBook-Pro.local with PID 4445 (/Users/robinwu/IdeaProjects/kiki/kiki-excelgenie/target/classes started by robinwu in /Users/robinwu/IdeaProjects/kiki)
+2019-10-12 20:53:22.029  INFO 4445 --- [main] c.f.k.excelgenie.ExcelgenieApplication   : No active profile set, falling back to default profiles: default
+2019-10-12 20:53:22.717  INFO 4445 --- [main] c.f.k.excelgenie.ExcelgenieApplication   : Started ExcelgenieApplication in 0.943 seconds (JVM running for 1.212)
+2019-10-12 20:53:22.718  INFO 4445 --- [main] c.f.k.excelgenie.ExcelgenieApplication   : ExcelgenieApplication started
+2019-10-12 20:53:23.170  INFO 4445 --- [main] c.f.k.excelgenie.ExcelgenieApplication   : ExcelgenieApplication ended
+2019-10-12 21:00:24.908  INFO 4459 --- [main] c.f.k.excelgenie.ExcelgenieApplication   : Starting ExcelgenieApplication on RobindeMacBook-Pro.local with PID 4459 (/Users/robinwu/IdeaProjects/kiki/kiki-excelgenie/target/classes started by robinwu in /Users/robinwu/IdeaProjects/kiki)
+2019-10-12 21:00:24.910  INFO 4459 --- [main] c.f.k.excelgenie.ExcelgenieApplication   : No active profile set, falling back to default profiles: default
+2019-10-12 21:00:25.584  INFO 4459 --- [main] c.f.k.excelgenie.ExcelgenieApplication   : Started ExcelgenieApplication in 1.109 seconds (JVM running for 1.376)
+2019-10-12 21:00:25.585  INFO 4459 --- [main] c.f.k.excelgenie.ExcelgenieApplication   : ExcelgenieApplication started
+2019-10-12 21:00:25.597  INFO 4459 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-10-12 21:00:25.601 ERROR 4459 --- [main] o.s.boot.SpringApplication               : Application run failed
+
+java.lang.IllegalStateException: Failed to execute CommandLineRunner
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:784) [spring-boot-2.1.9.RELEASE.jar:2.1.9.RELEASE]
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:765) [spring-boot-2.1.9.RELEASE.jar:2.1.9.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:319) [spring-boot-2.1.9.RELEASE.jar:2.1.9.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1215) [spring-boot-2.1.9.RELEASE.jar:2.1.9.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1204) [spring-boot-2.1.9.RELEASE.jar:2.1.9.RELEASE]
+	at com.finalhome.kiki.excelgenie.ExcelGenieApplication.main(ExcelgenieApplication.java:20) [classes/:na]
+Caused by: javax.validation.ValidationException: HV000183: Unable to initialize 'javax.el.ExpressionFactory'. Check that you have the EL dependencies on the classpath, or use ParameterMessageInterpolator instead
+	at org.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpolator.buildExpressionFactory(ResourceBundleMessageInterpolator.java:123) ~[hibernate-validator-6.0.17.Final.jar:6.0.17.Final]
+	at org.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpolator.<init>(ResourceBundleMessageInterpolator.java:47) ~[hibernate-validator-6.0.17.Final.jar:6.0.17.Final]
+	at org.hibernate.validator.internal.engine.ConfigurationImpl.getDefaultMessageInterpolator(ConfigurationImpl.java:474) ~[hibernate-validator-6.0.17.Final.jar:6.0.17.Final]
+	at org.hibernate.validator.internal.engine.ConfigurationImpl.getDefaultMessageInterpolatorConfiguredWithClassLoader(ConfigurationImpl.java:650) ~[hibernate-validator-6.0.17.Final.jar:6.0.17.Final]
+	at org.hibernate.validator.internal.engine.ConfigurationImpl.getMessageInterpolator(ConfigurationImpl.java:397) ~[hibernate-validator-6.0.17.Final.jar:6.0.17.Final]
+	at org.hibernate.validator.internal.engine.ValidatorFactoryImpl.<init>(ValidatorFactoryImpl.java:183) ~[hibernate-validator-6.0.17.Final.jar:6.0.17.Final]
+	at org.hibernate.validator.HibernateValidator.buildValidatorFactory(HibernateValidator.java:38) ~[hibernate-validator-6.0.17.Final.jar:6.0.17.Final]
+	at org.hibernate.validator.internal.engine.ConfigurationImpl.buildValidatorFactory(ConfigurationImpl.java:346) ~[hibernate-validator-6.0.17.Final.jar:6.0.17.Final]
+	at com.finalhome.kiki.excelgenie.util.ValidationUtil.validate(ValidationUtil.java:17) ~[classes/:na]
+	at com.finalhome.kiki.excelgenie.io.ExcelReader.read(ExcelReader.java:30) ~[classes/:na]
+	at com.finalhome.kiki.excelgenie.ExcelGenieApplication.run(ExcelgenieApplication.java:28) [classes/:na]
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:781) [spring-boot-2.1.9.RELEASE.jar:2.1.9.RELEASE]
+	... 5 common frames omitted
+
+2019-10-12 21:06:15.468  INFO 4480 --- [main] c.f.k.excelgenie.ExcelgenieApplication   : Starting ExcelgenieApplication on RobindeMacBook-Pro.local with PID 4480 (/Users/robinwu/IdeaProjects/kiki/kiki-excelgenie/target/classes started by robinwu in /Users/robinwu/IdeaProjects/kiki)
+2019-10-12 21:06:15.470  INFO 4480 --- [main] c.f.k.excelgenie.ExcelgenieApplication   : No active profile set, falling back to default profiles: default
+2019-10-12 21:06:16.149  INFO 4480 --- [main] c.f.k.excelgenie.ExcelgenieApplication   : Started ExcelgenieApplication in 1.128 seconds (JVM running for 1.431)
+2019-10-12 21:06:16.150  INFO 4480 --- [main] c.f.k.excelgenie.ExcelgenieApplication   : ExcelgenieApplication started
+2019-10-12 21:06:16.550  INFO 4480 --- [main] c.f.k.excelgenie.ExcelgenieApplication   : ExcelgenieApplication ended
+2019-10-13 23:09:34.322  INFO 1685 --- [main] c.f.k.excelgenie.ExcelGenieApplication   : Starting ExcelGenieApplication on RobindeMacBook-Pro.local with PID 1685 (/Users/robinwu/IdeaProjects/kiki/kiki-excelgenie/target/classes started by robinwu in /Users/robinwu/IdeaProjects/kiki)
+2019-10-13 23:09:34.336  INFO 1685 --- [main] c.f.k.excelgenie.ExcelGenieApplication   : No active profile set, falling back to default profiles: default
+2019-10-13 23:09:35.135  INFO 1685 --- [main] c.f.k.excelgenie.ExcelGenieApplication   : Started ExcelGenieApplication in 1.152 seconds (JVM running for 1.511)
+2019-10-13 23:10:47.231  INFO 1688 --- [main] c.f.k.excelgenie.ExcelGenieApplication   : Starting ExcelGenieApplication on RobindeMacBook-Pro.local with PID 1688 (/Users/robinwu/IdeaProjects/kiki/kiki-excelgenie/target/classes started by robinwu in /Users/robinwu/IdeaProjects/kiki)
+2019-10-13 23:10:47.233  INFO 1688 --- [main] c.f.k.excelgenie.ExcelGenieApplication   : No active profile set, falling back to default profiles: default
+2019-10-13 23:10:47.891  INFO 1688 --- [main] c.f.k.excelgenie.ExcelGenieApplication   : Started ExcelGenieApplication in 0.919 seconds (JVM running for 1.181)
+2019-10-13 23:12:15.089  INFO 1690 --- [main] c.f.k.excelgenie.ExcelGenieApplication   : Starting ExcelGenieApplication on RobindeMacBook-Pro.local with PID 1690 (/Users/robinwu/IdeaProjects/kiki/kiki-excelgenie/target/classes started by robinwu in /Users/robinwu/IdeaProjects/kiki)
+2019-10-13 23:12:15.091  INFO 1690 --- [main] c.f.k.excelgenie.ExcelGenieApplication   : No active profile set, falling back to default profiles: default
+2019-10-13 23:12:15.828  INFO 1690 --- [main] c.f.k.excelgenie.ExcelGenieApplication   : Started ExcelGenieApplication in 1.069 seconds (JVM running for 1.799)
+2019-10-13 23:25:30.283  INFO 1709 --- [main] c.f.k.excelgenie.ExcelGenieApplication   : Starting ExcelGenieApplication on RobindeMacBook-Pro.local with PID 1709 (/Users/robinwu/IdeaProjects/kiki/kiki-excelgenie/target/classes started by robinwu in /Users/robinwu/IdeaProjects/kiki)
+2019-10-13 23:25:30.285  INFO 1709 --- [main] c.f.k.excelgenie.ExcelGenieApplication   : No active profile set, falling back to default profiles: default
+2019-10-13 23:25:30.958  INFO 1709 --- [main] c.f.k.excelgenie.ExcelGenieApplication   : Started ExcelGenieApplication in 0.926 seconds (JVM running for 1.188)
+2019-10-13 23:25:30.960  INFO 1709 --- [main] c.finalhome.kiki.excelgenie.ExcelGenie   : Excel Genie Application started
+2019-10-13 23:34:41.883  INFO 1735 --- [main] c.f.k.excelgenie.ExcelGenieApplication   : Starting ExcelGenieApplication on RobindeMacBook-Pro.local with PID 1735 (/Users/robinwu/IdeaProjects/kiki/kiki-excelgenie/target/classes started by robinwu in /Users/robinwu/IdeaProjects/kiki)
+2019-10-13 23:34:41.885  INFO 1735 --- [main] c.f.k.excelgenie.ExcelGenieApplication   : No active profile set, falling back to default profiles: default
+2019-10-13 23:34:42.528  INFO 1735 --- [main] c.f.k.excelgenie.ExcelGenieApplication   : Started ExcelGenieApplication in 1.043 seconds (JVM running for 1.306)
+2019-10-13 23:34:42.530  INFO 1735 --- [main] c.finalhome.kiki.excelgenie.ExcelGenie   : Excel Genie Application started
+2019-10-13 23:34:43.042  INFO 1735 --- [main] c.finalhome.kiki.excelgenie.ExcelGenie   : Excel Genie Application ended
+2019-10-13 23:38:10.702  INFO 1737 --- [main] c.f.k.excelgenie.ExcelGenieApplication   : Starting ExcelGenieApplication on RobindeMacBook-Pro.local with PID 1737 (/Users/robinwu/IdeaProjects/kiki/kiki-excelgenie/target/classes started by robinwu in /Users/robinwu/IdeaProjects/kiki)
+2019-10-13 23:38:10.704  INFO 1737 --- [main] c.f.k.excelgenie.ExcelGenieApplication   : No active profile set, falling back to default profiles: default
+2019-10-13 23:38:11.352  INFO 1737 --- [main] c.f.k.excelgenie.ExcelGenieApplication   : Started ExcelGenieApplication in 1.095 seconds (JVM running for 1.371)
+2019-10-13 23:38:11.354  INFO 1737 --- [main] c.finalhome.kiki.excelgenie.ExcelGenie   : Excel Genie Application started
+2019-10-13 23:38:11.770  INFO 1737 --- [main] c.finalhome.kiki.excelgenie.ExcelGenie   : Excel Genie Application ended
